@@ -1,34 +1,34 @@
 O Básico:
- A internet é uma rede de computadores(network) conectados para fazer uma rede uníca que conecta todos os dispositivos do mundo que estiverem conectados nela
+ A internet é uma rede de computadores(network) conectados para fazer uma rede uníca que conecta todos os dispositivos do mundo que estiverem conectados nela.
 
 Como ela funciona:
  A internet funciona conectando diversos dispositivos com uma série de protocolos padronizados, esses protocolos definem como a informação é trocada entre dispositivos e garante 
 com que essa informação chegue de forma confiável e segura.
  O núcleo da internet é uma junção de diversos roteadores interconectados espalhados pelo mundo, que são responsáveis de direcionar o tráfego de informação pela internet, quando
-informação é enviada, ela é quebrada em diversos "pedaços" (packets) e é enviado de roteador a roteador até chegar em seu destino final
+informação é enviada, ela é quebrada em diversos "pedaços" (packets) e é enviado de roteador a roteador até chegar em seu destino final.
  Para garantir que os packets são enviados de forma segura, a internet usa diversos protocolos, como o Internet Protocol (IP) e o Transmission Control Protocol (TCP)
 o IP é responsável que os packets sejão enviados pro lugar correto, e o TCP é responsável de enviar de forma segura e na ordem correta.
  Em adição a esses protocolos, existem outros que garantem a comunicação e a troca de dados pela internet, como a Domain Name System (DNS), a Hypertext Transfer Protocol(HTTP)
 e a Secure Sockets Layer/Transport Layer Security (SSL/TLS).
 
 Conceitos básicos e terminologia:
- Alguns conceitos básicos e termnilogias necessários para entender a internet
+ Alguns conceitos básicos e termnilogias necessários para entender a internet.
 
- Packet: um pedaço de informação que é transmitido pela internet
+ Packet: um pedaço de informação que é transmitido pela internet.
 
- Rotoeador: um dispositivo que controla o tráfego online e direciona onde informação deve ir
+ Rotoeador: um dispositivo que controla o tráfego online e direciona onde informação deve ir.
 
- IP: um identificador unico que serve pra direcionar a informação para o lugar correto
+ IP: um identificador unico que serve pra direcionar a informação para o lugar correto.
 
- Domain Name: um nome que nós conseguimos ler que identifica um site
+ Domain Name: um nome que nós conseguimos ler que identifica um site.
 
- DNS(Domain Name System): uma forma de traduzir o Domain Name para IP
+ DNS(Domain Name System): uma forma de traduzir o Domain Name para IP.
 
- HTTP: Uma forma de mandar uma informação entre o client e o server (como um browser e um site)
+ HTTP: Uma forma de mandar uma informação entre o client e o server (como um browser e um site).
 
- HTTPS: uma forma de encriptar o http para uma troca de informação segura entre o client e o server
+ HTTPS: uma forma de encriptar o http para uma troca de informação segura entre o client e o server.
 
- SSL/TLS: o secure sockets layer e o transport layer security são usados para prover comunicação segura na internet
+ SSL/TLS: o secure sockets layer e o transport layer security são usados para prover comunicação segura na internet.
 
 A importancia dos protocolos:
  Um protocolo é basicamente uma séria de regras e padrões, e eles tem um papel critico na internet pois são eles que definem como a informação é trocada entre dispositivos.
@@ -38,10 +38,17 @@ navegador Opera e tem twitter, você pode falar com uma pessoa que usa o Google 
 IP e Domain Name:
  IP e Domain Name são ambos conceitos importantes de enteder quando se trabalha com internet.
  Um endereço IP é um identificador unico que cada roteador tem, ele é usado para rotear informação pro destino correto, endereços IP são geralmente representados por uma série
-de números e pontos, por exemplo "92.28.211.234"
+de números e pontos, por exemplo "92.28.211.234".
  Os Domain Names são nomes legíveis por humanos que são usados para identificar sites, geralmente são duas partes separadas por um ponto, como "youtube.com" e esses Domain Names
 são traduzidos para IP com a ajuda do DNS.
  Os DNS são uma parte vital da infraestrutura da internet, basicamente, o seu computador manda uma consulta de DNS pra um servidor DNS, e esse servidor manda o IP correspondente
 e com esse IP o computador consegue se conectar ao site ou qualquer outra ferramente que você for entrar.
 
- 
+Introdução ao HTTP e HTTPS:
+ O HTTP e HTTPS são duas dos protocolos mais utilizados em aplicações e serviços baseados em internet.
+ Como dito anteriormente, o HTTP é uma forma de conectar um client e um servidor para eles compartilharem informações, por exemplo, quando você pesquisa no navegador "receita de bolo
+de morango" o client vai falar pro servidor que ele precisa de uma receita de bolo de morango e vai enviar pro client.
+ O HTTPS é uma forma mais segura do HTTP, que encripta a informação enviada entre o server e o client, usando o SSL/TLS para encriptar informações como senhas, emails, informações de
+pagamento e outras informações pessoais.
+ Quando você usa um site que usa HTTPS, o seu browser vai mostrar um ícone de cadeado na barra de endereço do site, indicando que a conecção é segura, além do endereço do site começar
+começar com https ao invés de http. HTTPS:(https://www.youtube.com/) HTTP:(http://portal.mec.gov.br/)
