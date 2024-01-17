@@ -10,3 +10,22 @@ informação é enviada, ela é quebrada em diversos "pedaços" (packets) e é e
 o IP é responsável que os packets sejão enviados pro lugar correto, e o TCP é responsável de enviar de forma segura e na ordem correta.
  Em adição a esses protocolos, existem outros que garantem a comunicação e a troca de dados pela internet, como a Domain Name System (DNS), a Hypertext Transfer Protocol(HTTP)
 e a Secure Sockets Layer/Transport Layer Security (SSL/TLS).
+
+Conceitos básicos e terminologia:
+ Alguns conceitos básicos e termnilogias necessários para entender a internet
+
+ Packet: um pedaço de informação que é transmitido pela internet
+
+ Rotoeador: um dispositivo que controla o tráfego online e direciona onde informação deve ir
+
+ IP: um identificador unico que serve pra direcionar a informação para o lugar correto
+
+ Domain Name: um nome que nós conseguimos ler que identifica um site
+
+ DNS(Domain Name System): uma forma de traduzir o Domain Name para IP
+
+ HTTP: Uma forma de mandar uma informação entre o client e o server (como um browser e um site)
+
+ HTTPS: uma forma de encriptar o http para uma troca de informação segura entre o client e o server
+
+ SSL/TLS: o secure sockets layer e o transport layer security são usados para prover comunicação segura na internet
