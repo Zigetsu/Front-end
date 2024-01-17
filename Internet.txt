@@ -29,3 +29,8 @@ Conceitos básicos e terminologia:
  HTTPS: uma forma de encriptar o http para uma troca de informação segura entre o client e o server
 
  SSL/TLS: o secure sockets layer e o transport layer security são usados para prover comunicação segura na internet
+
+A importancia dos protocolos:
+ Um protocolo é basicamente uma séria de regras e padrões, e eles tem um papel critico na internet pois são eles que definem como a informação é trocada entre dispositivos.
+ Os protoclos são importantes pois, eles permitem que qualquer dispositivo de qualquer marca com acesso a internet podem se comunicar entre si, por exemplo, se você usa o 
+navegador Opera e tem twitter, você pode falar com uma pessoa que usa o Google que tbm tenha twitter, contanto que eles sigam o protocolo HTTP.
