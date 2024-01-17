@@ -34,3 +34,14 @@ A importancia dos protocolos:
  Um protocolo é basicamente uma séria de regras e padrões, e eles tem um papel critico na internet pois são eles que definem como a informação é trocada entre dispositivos.
  Os protoclos são importantes pois, eles permitem que qualquer dispositivo de qualquer marca com acesso a internet podem se comunicar entre si, por exemplo, se você usa o 
 navegador Opera e tem twitter, você pode falar com uma pessoa que usa o Google que tbm tenha twitter, contanto que eles sigam o protocolo HTTP.
+
+IP e Domain Name:
+ IP e Domain Name são ambos conceitos importantes de enteder quando se trabalha com internet.
+ Um endereço IP é um identificador unico que cada roteador tem, ele é usado para rotear informação pro destino correto, endereços IP são geralmente representados por uma série
+de números e pontos, por exemplo "92.28.211.234"
+ Os Domain Names são nomes legíveis por humanos que são usados para identificar sites, geralmente são duas partes separadas por um ponto, como "youtube.com" e esses Domain Names
+são traduzidos para IP com a ajuda do DNS.
+ Os DNS são uma parte vital da infraestrutura da internet, basicamente, o seu computador manda uma consulta de DNS pra um servidor DNS, e esse servidor manda o IP correspondente
+e com esse IP o computador consegue se conectar ao site ou qualquer outra ferramente que você for entrar.
+
+ 
