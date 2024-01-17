@@ -1,0 +1,12 @@
+O Básico:
+ A internet é uma rede de computadores(network) conectados para fazer uma rede uníca que conecta todos os dispositivos do mundo que estiverem conectados nela
+
+Como ela funciona:
+ A internet funciona conectando diversos dispositivos com uma série de protocolos padronizados, esses protocolos definem como a informação é trocada entre dispositivos e garante 
+com que essa informação chegue de forma confiável e segura.
+ O núcleo da internet é uma junção de diversos roteadores interconectados espalhados pelo mundo, que são responsáveis de direcionar o tráfego de informação pela internet, quando
+informação é enviada, ela é quebrada em diversos "pedaços" (packets) e é enviado de roteador a roteador até chegar em seu destino final
+ Para garantir que os packets são enviados de forma segura, a internet usa diversos protocolos, como o Internet Protocol (IP) e o Transmission Control Protocol (TCP)
+o IP é responsável que os packets sejão enviados pro lugar correto, e o TCP é responsável de enviar de forma segura e na ordem correta.
+ Em adição a esses protocolos, existem outros que garantem a comunicação e a troca de dados pela internet, como a Domain Name System (DNS), a Hypertext Transfer Protocol(HTTP)
+e a Secure Sockets Layer/Transport Layer Security (SSL/TLS).
