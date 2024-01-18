@@ -50,5 +50,5 @@ Introdução ao HTTP e HTTPS:
 de morango" o client vai falar pro servidor que ele precisa de uma receita de bolo de morango e vai enviar pro client.
  O HTTPS é uma forma mais segura do HTTP, que encripta a informação enviada entre o server e o client, usando o SSL/TLS para encriptar informações como senhas, emails, informações de
 pagamento e outras informações pessoais.
- Quando você usa um site que usa HTTPS, o seu browser vai mostrar um ícone de cadeado na barra de endereço do site, indicando que a conecção é segura, além do endereço do site começar
+ Quando você usa um site que usa HTTPS, o seu browser vai mostrar um ícone de cadeado na barra de endereço do site, indicando que a conexão é segura, além do endereço do site começar
 começar com https ao invés de http. HTTPS:(https://www.youtube.com/) HTTP:(http://portal.mec.gov.br/)
