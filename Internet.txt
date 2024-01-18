@@ -32,8 +32,8 @@ Conceitos básicos e terminologia:
 
 A importancia dos protocolos:
  Um protocolo é basicamente uma séria de regras e padrões, e eles tem um papel critico na internet pois são eles que definem como a informação é trocada entre dispositivos.
- Os protoclos são importantes pois, eles permitem que qualquer dispositivo de qualquer marca com acesso a internet podem se comunicar entre si, por exemplo, se você usa o 
-navegador Opera e tem twitter, você pode falar com uma pessoa que usa o Google que tbm tenha twitter, contanto que eles sigam o protocolo HTTP.
+ Os protocolos são importantes pois, eles permitem que qualquer dispositivo de qualquer marca com acesso a internet podem se comunicar entre si, por exemplo, se você usa o 
+navegador Opera e tem twitter, você pode falar com uma pessoa que usa o Google que também tenha twitter, contanto que eles sigam o protocolo HTTP.
 
 IP e Domain Name:
  IP e Domain Name são ambos conceitos importantes de enteder quando se trabalha com internet.
@@ -52,3 +52,23 @@ de morango" o client vai falar pro servidor que ele precisa de uma receita de bo
 pagamento e outras informações pessoais.
  Quando você usa um site que usa HTTPS, o seu browser vai mostrar um ícone de cadeado na barra de endereço do site, indicando que a conexão é segura, além do endereço do site começar
 começar com https ao invés de http. HTTPS:(https://www.youtube.com/) HTTP:(http://portal.mec.gov.br/)
+
+TCP e IP:
+ Os protocolos TCP e IP são os mais básicos e mais usados em softwares e sites na internet, eles provem uma forma segura e confiavel de transmistir dados entre dispositivos.
+ Quando fazendo uma aplicação com TCP/IP é importante saber alguns conceitos básicos.
+
+ Portas: Portas são usadas pra identificar a aplicação ou serviço rodando no dispositivo, cada aplicação/serviço é atribuido uma porta para que a informação seja enviada para o lugar
+correto
+
+ Sockets: Socket é uma junção da Porta com o IP, que representa um destino especifico usado para comunicação. Sockets são usados para estabelecer conexão e distribuir informação entre as
+aplicações.
+
+ Conexão: Uma conexão é estabelecida entre dois sockets quando dois dispositivos querem se comunicar, no processo de estabelecimento de conexão, os dispositivos negociam parâmetros como
+o tamanho máximo do segmento, o tamanho da janela, isso define como informação vai ser transmitida nessa conexão.
+ 
+ Transferencia de Dados: Quando informação é estabelecida, dados podem ser transferidos de um dispositivo pro outro, e esses dados vão em segmentos contendo uma sequência de números e outros
+metadados que garantem a transferência segura dos dados.
+
+ Quando fazendo uma aplicação com TCP/IP, é importante garantir que a aplicação esteja configurada para funcionar com as portas corretas, sockets e conexões.Também é necessário conhecer os
+protocolos que são comumente usados com TCP/IP, como HTTP, FTP (File Transfer Protocol) SMTP (Simple Mail Transfer Protocol), entender esses conceitos são vitais para construir uma boa
+aplicação.
