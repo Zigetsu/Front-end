@@ -1,5 +1,5 @@
 h1{
-    color:rgb(120, 0, 240)
+    color:rgb(120, 0, 240);
 }
 h2{
     color: red; 
@@ -20,4 +20,17 @@ h2{
 }
 #texto-h3{
     font-size: 35px;
+}
+
+p{
+    color:aqua;
+}
+.mais-especifico{
+    color: brown;
+}
+#muito-mais-especifico{
+    color: blue;
+}
+#div1{
+    color: red;
 }
