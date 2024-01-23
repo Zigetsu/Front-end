@@ -22,15 +22,12 @@ h2{
     font-size: 35px;
 }
 
-p{
-    color:aqua;
-}
 .mais-especifico{
     color: brown;
 }
 #muito-mais-especifico{
     color: blue;
 }
-#div1{
-    color: red;
+div p{
+    color: green;
 }
