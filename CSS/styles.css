@@ -33,14 +33,14 @@ div p{
 }
 
 /* Cores */
-#nome{
+.nome{
     color: orange;
 }
 
-#hexa{
+.hexa{
     color: #ffa500;
 }
 
-#rgba{
-    color: rgb(255, 165, 0,);
+.rgba{
+    color: rgba(255, 165, 0, 1);
 }
