@@ -1,8 +1,15 @@
 h1{
-    background-color: aqua; color:aliceblue
+    color:rgb(120, 0, 240)
 }
 h2{
     color: red; 
     font-size: 50px;
     text-align: center;
 }
+
+/*esté é um comentário*/
+/*  Este
+    Também
+    É
+    Um
+    Comentário*/
