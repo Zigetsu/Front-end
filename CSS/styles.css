@@ -44,3 +44,14 @@ div p{
 .rgba{
     color: rgba(255, 165, 0, 1);
 }
+
+/* Backgrounds */
+
+.div-background{
+    background-image: url(img/borboleta.jpg);
+    height: 300px;
+}
+
+h1{
+    text-align: center;
+}
