@@ -31,3 +31,16 @@ h2{
 div p{
     color: green;
 }
+
+/* Cores */
+#nome{
+    color: orange;
+}
+
+#hexa{
+    color: #ffa500;
+}
+
+#rgba{
+    color: rgba(255, 165, 0,);
+}
