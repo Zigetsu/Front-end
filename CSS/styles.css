@@ -110,7 +110,7 @@ body{
     width: 200px;
     height: 200px;
     background-color: rgba(255, 0, 0, 1);
-    padding: 20px;
+    padding: 20px 30px 20px 30px;
 }
 
 .p-box{
