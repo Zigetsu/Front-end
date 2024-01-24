@@ -48,10 +48,10 @@ div p{
 /* Backgrounds */
 
 .div-background{
-    background-image: url(img/borboleta.jpg);
+    background-image: url(img/praia.jpg);
     height: 300px;
 }
 
-h1{
+#titulo-background{
     text-align: center;
 }
