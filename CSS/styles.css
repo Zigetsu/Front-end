@@ -127,7 +127,7 @@ body{
 	padding: 30px 20px;
     border-width: 25px 15px;
     border: solid #000;
-    border-radius: 10;
+    border-radius: 15, 4;
     /*border left: 50px dotted black
     border right style: doubled*/
 }
