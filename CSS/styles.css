@@ -125,7 +125,7 @@ body{
 	/* padding: 30px 20px 5px; */
 	/* especifico agrupado 2 medidas - top -bottom, right - left */
 	padding: 30px 20px;
-    border-width: 10px 5px;
+    border-width: 10px 5px solid;
     border: #000;
     /*border left: 50px dotted black
     border right style: doubled*/
