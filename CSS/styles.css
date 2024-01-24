@@ -102,6 +102,10 @@ div p{
 
 /* Box model */
 
+body{
+    margin:0;
+}
+
 .box{
     width: 200px;
     height: 200px;
