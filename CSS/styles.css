@@ -95,3 +95,7 @@ div p{
 .lighter{
     font-weight: lighter;
 }
+
+.variants{
+    font-variant: small-caps;
+}
