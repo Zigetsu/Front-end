@@ -99,3 +99,11 @@ div p{
 .variants{
     font-variant: small-caps;
 }
+
+/* Box model */
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(255, 0, 0, 1);
+}
