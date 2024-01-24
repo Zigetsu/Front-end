@@ -57,3 +57,21 @@ div p{
     color:#fff;
     background-color:#000;
 }
+
+/* Fontes */
+
+.familia{
+    color: #000;
+}
+
+.serif{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sans-serif{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.monospace{
+    font-family: 'Courier New', Courier, monospace;
+}
