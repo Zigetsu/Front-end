@@ -75,3 +75,11 @@ div p{
 .monospace{
     font-family: 'Courier New', Courier, monospace;
 }
+
+.italic{
+    font-style: italic;
+}
+
+.oblique{
+    font-style: oblique;
+}
