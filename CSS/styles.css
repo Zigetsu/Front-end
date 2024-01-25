@@ -144,3 +144,59 @@ body{
     font-family: 'Courier New', Courier, monospace;
     margin: 0;
 }
+
+/* Positions */
+
+.div-positions{
+    padding: 30px 20px;
+    height: 500px;
+    width: 500px;
+    background-color: purple;
+    padding: 40px 30px;
+    border: 7px solid #000;
+    border-radius: 15px;
+    margin: 40px;
+}
+
+.static{
+    position: static;
+}
+
+.relative{
+    position: relative;
+    background-color: green;
+    top: 60px;
+    left: 80px;
+}
+
+.absolute{
+    background-color: red ;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.mini-div{
+    height: 50px;
+    width: 50px;
+    bottom: 0px;
+    right: 0px;
+    background-color: #000;
+    position: absolute;
+
+}
+
+.fixed{
+    position: fixed;
+    height: 200px;
+    width: 200px;
+    bottom: 0px;
+    right: 0px;
+    background-color: yellow;
+}
+
+.sticky{
+    position: sticky;
+    background-color: aquamarine;
+    top: 0px;
+}
