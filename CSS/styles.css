@@ -230,3 +230,22 @@ body{
 .clear{
     clear: both;
 }
+
+/* Unidades de medida */
+
+.pixel-1{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.pixel-2{
+    height: 50px;
+    width: 500px;
+    background-color: blue;
+}
+
+.texto-units{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+}
