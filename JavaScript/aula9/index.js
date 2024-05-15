@@ -2,9 +2,6 @@ let varA = 'A';
 let varB = 'B';
 let varC = 'C';
 
-const temp = varA;
-varA = varB;
-varB = varC;
-varC = temp;
+let resolution = [varA, varB, varC] = [varB, varC, varA];
 
-console.log(varA, varB, varC);
+console.log(resolution);
